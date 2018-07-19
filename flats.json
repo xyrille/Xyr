@@ -89,31 +89,13 @@
     "lat": 16.4611,
     "lng": 120.3339
   },
-   {
-    "id": 216,
-    "name": "Bauang Grape Farms",
-    "imageUrl": "http://www.greedypeg.net/p/2016/06/25/41141_1.jpg",
+  {
+    "id": 214,
+    "name": "MY HOME ADDRESS",
+    "imageUrl": "http://1.bp.blogspot.com/-xag5MxJfzLk/UshCgCKpprI/AAAAAAAAWBQ/2_TxF3squNY/s1600/Ivisan,+Capiz+(1).jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.4611,
-    "lng": 120.3339
-  },
-   {
-    "id": 217,
-    "name": "Bauang Grape Farms",
-    "imageUrl": "http://www.greedypeg.net/p/2016/06/25/41141_1.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
-    "lat": 16.4611,
-    "lng": 120.3339
-  },
-   {
-    "id": 218,
-    "name": "Bauang Grape Farms",
-    "imageUrl": "http://www.greedypeg.net/p/2016/06/25/41141_1.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
-    "lat": 16.4611,
-    "lng": 120.3339
+    "lat": 16.8022,
+    "lng": 120.4012
   }
 ]
