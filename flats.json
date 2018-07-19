@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Surfing in San Juan",
-    "imageUrl": "https://i1.wp.com/langyaw.com/wp-content/uploads/2010/05/la_union_surf_1.jpg?fit=580%2C387",
+    "imageUrl": "http://2.bp.blogspot.com/-36kNZ6wz5U8/UcFhGnBBYtI/AAAAAAAAB0Y/N61QTERVv2Q/s640/surfing-in-la-union.JPG",
     "price": 200,
     "priceCurrency": "₱",
     "lat": 16.6582,
@@ -46,11 +46,11 @@
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Pindangan Ruins",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
+    "price": 0,
     "priceCurrency": "₱",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 16.5881,
+    "lng": 120.3146
   }
 ]
