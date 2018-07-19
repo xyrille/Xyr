@@ -13,43 +13,43 @@
     "name": "Bahay na Bato",
     "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_01.jpg",
     "price": 20,
-    "priceCurrency": "EUR",
+    "priceCurrency": "₱",
     "lat":  16.8472,
     "lng": 120.3517    
   },
   {
     "id": 201,
     "name": "Pebble Beach of Luna",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "imageUrl": "https://jamielibots.files.wordpress.com/2017/03/wp-1488502832256.jpg",
     "price": 150,
-    "priceCurrency": "EUR",
+    "priceCurrency": "₱",
     "lat": 16.8393,
     "lng": 120.3382
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
+    "name": "Surfing in San Juan",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
-    "price": 115,
-    "priceCurrency": "EUR",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "price": 200,
+    "priceCurrency": "₱",
+    "lat": 16.6582,
+    "lng": 120.3291
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
-    "price": 135,
-    "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "name": "Namacpacan Church",
+    "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2018/03/Namacpacan-Church-750x400.jpg",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 16.8534985,
+    "lng": 120.3765828
   },
   {
     "id": 211,
     "name": "Bohemian and Chic in Paris",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
     "price": 90,
-    "priceCurrency": "EUR",
+    "priceCurrency": "₱",
     "lat": 48.827855,
     "lng": 2.350774
   }
