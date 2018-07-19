@@ -1,7 +1,7 @@
 [
   {
     "id": 145,
-    "name": "TANGADAN FALLS",
+    "name": "Tangadan Falls",
     "imageUrl": "http://4.bp.blogspot.com/-MAht8ICbD3M/Vu41_I_PJDI/AAAAAAAACHo/c37ER777GAojS38L6HKm9fZ1L1I3pl-rQ/s1600/DSC_6982.jpg",
     "price": 25,
     "priceCurrency": "₱",
@@ -10,21 +10,21 @@
   },
   {
     "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
-    "price": 200,
+    "name": "Bahay na Bato",
+    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_01.jpg",
+    "price": 20,
     "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "lat":  16.8472,
+    "lng": 120.3517    
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
+    "name": "Pebble Beach of Luna",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
     "price": 150,
     "priceCurrency": "EUR",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "lat": 16.8393,
+    "lng": 120.3382
   },
   {
     "id": 205,
