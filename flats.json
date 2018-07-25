@@ -13,7 +13,7 @@
     "name": "Bahay na Bato",
     "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_01.jpg",
     "price": 20,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat":  16.8472,
     "lng": 120.3517    
   },
@@ -22,7 +22,7 @@
     "name": "Pebble Beach of Luna",
     "imageUrl": "https://jamielibots.files.wordpress.com/2017/03/wp-1488502832256.jpg",
     "price": 150,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 16.8393,
     "lng": 120.3382
   },
@@ -31,7 +31,7 @@
     "name": "Surfing in San Juan",
     "imageUrl": "http://2.bp.blogspot.com/-36kNZ6wz5U8/UcFhGnBBYtI/AAAAAAAAB0Y/N61QTERVv2Q/s640/surfing-in-la-union.JPG",
     "price": 200,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 16.6582,
     "lng": 120.3291
   },
@@ -40,7 +40,7 @@
     "name": "Namacpacan Church",
     "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2018/03/Namacpacan-Church-750x400.jpg",
     "price": 0,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 16.8534985,
     "lng": 120.3765828
   },
@@ -58,7 +58,7 @@
     "name": "Bauang Grape Farms",
     "imageUrl": "http://www.greedypeg.net/p/2016/06/25/41141_1.jpg",
     "price": 0,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 16.4611,
     "lng": 120.3339
   },
@@ -67,7 +67,7 @@
     "name": "Macho Temple",
     "imageUrl": "http://ttnotes.com/images/macho-pagoda-san-juan-la-union-7.jpg",
     "price": 0,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 16.6212,
     "lng": 120.3175
   },
@@ -76,7 +76,7 @@
     "name": "Christ The Redeemer Statue",
     "imageUrl": "http://1.bp.blogspot.com/-xag5MxJfzLk/UshCgCKpprI/AAAAAAAAWBQ/2_TxF3squNY/s1600/Ivisan,+Capiz+(1).jpg",
     "price": 0,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 16.6204,
     "lng": 120.3190
   },
@@ -85,7 +85,7 @@
     "name": "Bauang Grape Farms",
     "imageUrl": "http://www.greedypeg.net/p/2016/06/25/41141_1.jpg",
     "price": 0,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 16.4611,
     "lng": 120.3339
   },
@@ -94,7 +94,7 @@
     "name": "MY HOME ADDRESS",
     "imageUrl": "http://mw2.google.com/mw-panoramio/photos/medium/47727040.jpg",
     "price": 0,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 16.8022,
     "lng": 120.4012
   }
